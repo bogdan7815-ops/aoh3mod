@@ -1,0 +1,5 @@
+name = "No Aggression Coalitions"
+author = "Mod Creator"
+version = "1.0"
+description = "Убирает создание коалиций против игроков за агрессивные действия (агриссивку)."
+game_version = "*"
